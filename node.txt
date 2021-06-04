@@ -1,1 +1,6 @@
-creating a new hub.
+//creating a new hub.
+class Node {
+	public static main(args[]){
+		system.out.println("Hello Node");
+	}
+}
