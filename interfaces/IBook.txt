@@ -1,0 +1,4 @@
+public Interface IBook{
+	public void add();
+	public void delete();
+}
