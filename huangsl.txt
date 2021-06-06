@@ -1,6 +1,6 @@
 增加测试文件
 //class Room{
 	public static main(String args[]){
-		syso("Room 1");
+		//syso("Room 1");
 	}
 }
